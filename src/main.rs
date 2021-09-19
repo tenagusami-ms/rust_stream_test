@@ -1,3 +1,5 @@
+mod sicp;
+
 fn main() {
-    println!("Hello, world!");
+    sicp::exercise::stream_exercise()
 }
